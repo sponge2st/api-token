@@ -1,0 +1,3 @@
+2025-07-30 11:02:51"    free fire(:1.114.2B,Android OS 7.1.2 / API-23 (N2G48H/700250224)HandheldRAndroidZWIFI`
+OpenGL ES 3.1+Google|1f3ad6b7-ceb4-494b-870b-b1dacd720911
+                                                         197.1.12.135en 996a629dbcdb3964be6b6978f5d814dbHandheldsamsung SM-G955N@ff90c07eb9815af30a43b4a9f6019516e0e4c703b44092516d0defa4cef51f2aAndroidWIFI 7428b253defc164018c604a1ebbfebdfکک&/data/app/com.dts.freefireth-1/lib/armH
